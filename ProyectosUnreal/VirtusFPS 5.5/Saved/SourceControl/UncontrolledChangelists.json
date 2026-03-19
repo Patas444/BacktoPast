@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/FirstPersonBP/Blueprints/M4_GUN.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/Arms/Arms_Animations/Arms_idle.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/FirstPersonBP/Maps/FirstPersonExampleMap.umap",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/Arms/Arms_Animations/Movement_BS.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/FirstPersonBP/Blueprints/Arms_AnimBP.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/Arms/Arms_Animations/Arms_Fire.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/FirstPersonBP/Blueprints/WB_FPSUI.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/FirstPersonBP/Blueprints/HealthPick_Up.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/HealthMaterial_2.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/FirstPersonBP/Blueprints/BP_Enemy.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/ThirdPerson/Blueprints/Enemy_Final.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/FirstPersonBP/Blueprints/Enemy_Final.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/FirstPersonBP/Blueprints/Enemy.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/Characters/Mannequins/Meshes/SKM_Quinn_Physics.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/UIKit/Ammo_Icon.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/UIKit/Bar_Empty.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/UIKit/Crosshair.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/FirstPerson/Animations/FirstPerson_AnimBP.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/UIKit/Health_Fill.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/UIKit/HealthIcon.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/UIKit/HitMarker.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/UIKit/Left_BG.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/UIKit/M4A1_Icon.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/UIKit/R_Icon.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/UIKit/Right_BG.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/Characters/Mannequins/Meshes/SKM_Quinn.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/Enemy_Assets/Soldier_Mesh_fbm/Soldier_Body_diffuse.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/Enemy_Assets/Soldier_Mesh_fbm/Soldier_Body_normal.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/Enemy_Assets/Soldier_Mesh_fbm/Soldier_Body_specular.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/Enemy_Assets/Soldier_Mesh_fbm/Soldier_head_diffuse.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/Enemy_Assets/Soldier_Mesh_fbm/Soldier_head_normal.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/Enemy_Assets/Soldier_Mesh_fbm/Soldier_head_specular.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/UIKit/Stamina_Fill.uasset",
+				"E:/Github/BacktoPast/ProyectosUnreal/VirtusFPS 5.5/Content/FPSAssets/UIKit/StaminaIcon.uasset"
+			]
+		}
+	]
+}
